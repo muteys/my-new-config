@@ -1,0 +1,99 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="trying-37a7cfdd">
+      <jump line="3" column="29" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/myproj/rustproj/trying/Cargo.toml" protocol="file" />
+      <jump line="4" column="39" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="8" column="50" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="9" column="1" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="2" column="10" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="6" column="34" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="7" column="39" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+      <jump line="5" column="34" filename="$USER_HOME$/myproj/rustproj/trying/src/main.rs" protocol="file" />
+    </project>
+    <project id="Learn Rust-e599b116">
+      <jump line="0" column="0" filename="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/About/src/main.rs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/Task Description/src/main.rs" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/myproj/rustproj/trying/src/main.rs" timestamp="1754068185532">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/Navigating Around/src/main.rs" timestamp="1754031916294">
+        <mark key="&quot;" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/Editor/src/main.rs" timestamp="1754031992737">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/Course View/src/main.rs" timestamp="1754031955477">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/myproj/rustproj/trying/Cargo.toml" timestamp="1754031843314">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/About/src/main.rs" timestamp="1754031889146">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/myproj/rustproj/Learn Rust/Introduction/Getting started/Task Description/src/main.rs" timestamp="1754032338049">
+        <mark key="&quot;" line="3" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJZb3UgZW50ZXJlZDoge30iLCB1c2VyX2RhdGEudHJpbSgpKTsK</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJZb3UgZW50ZXJlZDoge30iLCB1c2VyX2RhdGEudHJpbSgpKTsK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIGxldCBtdXQgdXNlcl9kYXRhID0gU3RyaW5nOjpuZXcoKTsKICAgIHByaW50bG4hKCJQbGVhc2UgZW50ZXIgeW91ciBkYXRhOiIpOwogICAgaW86OnN0ZGluKCkKICAgICAgICAucmVhZF9saW5lKCZtdXQgdXNlcl9kYXRhKQogICAgICAgIC5leHBlY3QoIkZhaWxlZCB0byByZWFkIGxpbmUgIik7Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29yISIpOwo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIC8vIHB1dCB5b3VyIGNvZGUgaGVyZSB0byBsYXVuY2ggaXQK</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">fQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

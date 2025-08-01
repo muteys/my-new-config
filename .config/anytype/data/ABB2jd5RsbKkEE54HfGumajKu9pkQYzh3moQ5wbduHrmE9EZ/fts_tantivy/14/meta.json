@@ -1,0 +1,125 @@
+{
+  "index_settings": {
+    "docstore_compression": "lz4",
+    "docstore_blocksize": 16384
+  },
+  "segments": [
+    {
+      "segment_id": "3d2d4b31-df4c-4304-99a3-b887cd3ab5a8",
+      "max_doc": 1015,
+      "deletes": {
+        "num_deleted_docs": 10,
+        "opstamp": 2688
+      }
+    },
+    {
+      "segment_id": "768c12ab-2f61-4a18-8985-37333cb7f78d",
+      "max_doc": 8,
+      "deletes": null
+    },
+    {
+      "segment_id": "5e168f1c-4a0e-44cd-8fae-a4b93cbdf333",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "4f7a7fab-be9e-4515-8267-65201ad522a7",
+      "max_doc": 1,
+      "deletes": null
+    }
+  ],
+  "schema": [
+    {
+      "name": "Id",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "SimpleIdTokenizer"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "IdRaw",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "basic",
+          "fieldnorms": true,
+          "tokenizer": "raw"
+        },
+        "stored": true,
+        "fast": true
+      }
+    },
+    {
+      "name": "SpaceID",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "basic",
+          "fieldnorms": true,
+          "tokenizer": "raw"
+        },
+        "stored": true,
+        "fast": true
+      }
+    },
+    {
+      "name": "Title",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "simple_tokenizer"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "TitleZh",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "jieba"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "Text",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "simple_tokenizer"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "TextZh",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "jieba"
+        },
+        "stored": true,
+        "fast": false
+      }
+    }
+  ],
+  "opstamp": 2703
+}

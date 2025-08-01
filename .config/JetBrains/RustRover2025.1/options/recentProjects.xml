@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/myproj/rustproj/Learn Rust">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Learn Rust – main.rs" projectWorkspaceId="30fwExqyJQWFKYyNE37aFwMkDxI">
+              <option name="activationTimestamp" value="1754032337890" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-251.26927.79" />
+              <option name="buildTimestamp" value="1751468400000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="21" y="60" width="1878" height="999" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1754031826664" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproj/rustproj/trying">
+          <value>
+            <RecentProjectMetaInfo frameTitle="trying – main.rs" opened="true" projectWorkspaceId="30baOeiyl1srFPNu09rVS62SL4c">
+              <option name="activationTimestamp" value="1754068451311" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-251.26927.79" />
+              <option name="buildTimestamp" value="1751468400000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="21" y="60" width="1878" height="999" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1754032338633" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/myproj/rustproj/trying" />
+    <option name="lastProjectLocation" value="$USER_HOME$/myproj/rustproj" />
+  </component>
+</application>

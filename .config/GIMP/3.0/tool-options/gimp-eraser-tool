@@ -1,0 +1,10 @@
+# GIMP gimp-eraser-tool options
+
+(opacity 0.95999999999999996)
+(brush "2. Hardness 050")
+(dynamics "Pressure Size")
+(palette "Color History")
+(brush-size 2)
+(brush-hardness 0.5)
+
+# end of gimp-eraser-tool options

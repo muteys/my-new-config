@@ -1,0 +1,19 @@
+{
+	"uuid": "8f7d9cdd-0882-487b-b19c-7b56fc124696",
+	"deviceId": "29175e0ac47573fbe01752227e96913004fa96773a42065816e1eea8f2f98b24",
+	"deviceSoftwareRevision": "1ddd64dee9727bc40a922e2b9e77300b",
+	"windowState": {
+		"isMaximized": true,
+		"bounds": {
+			"x": 0,
+			"y": 0,
+			"width": 960,
+			"height": 1041
+		}
+	},
+	"hasRecentlyLaunched": true,
+	"deviceCpuRevision": "39feda6ea9ba54ef62d5cb6e6c64a35e",
+	"version": "5.61.1",
+	"tracksAvailabilityUpdatedAt": 1753721694841,
+	"repositoryMetaUpdatedAt": 1753713138081
+}

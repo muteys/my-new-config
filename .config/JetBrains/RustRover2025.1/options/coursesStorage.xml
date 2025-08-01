@@ -1,0 +1,16 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="description" value="&lt;p&gt;This course contains small exercises aimed to familiarize you with reading and writing Rust code. It is an adaptation of the exciting &lt;a href=&quot;https://github.com/rust-lang/rustlings&quot;&gt;rustlings&lt;/a&gt; course created by Carol Nichols. The adaptation tries to stick closely to the original spirit of rustlings but provides a few helpful hints about Rust development added inside the IDE. It also contains materials from &lt;a href=&quot;https://doc.rust-lang.org/book/index.html&quot;&gt;The Rust Programming Language Book&lt;/a&gt; written by Steve Klabnik and Carol Nichols with contributions by the Rust Community.&lt;/p&gt;&#10;&lt;p&gt;In this course, you will learn about common programming concepts, such as variables, data types, functions, and control flow and take a close look at one of Rust's essential features – ownership. You will see examples of using strings, structs, enums, modules, and macros in Rust and try them out yourself. Among other things, you will find out how to perform type conversions, handle errors, and write automated tests.&lt;/p&gt;&#10;&lt;p&gt;To work in this course, you will need the Rust toolchain installed on your machine. The corresponding &lt;a href=&quot;https://doc.rust-lang.org/book/ch01-01-installation.html&quot;&gt;chapter of The Book&lt;/a&gt; will provide you with all the instructions on how to do that.&lt;/p&gt;  &#10;&lt;p&gt;Have fun and good luck!&lt;/p&gt;&#10;&lt;p&gt;P.S. Want to contribute? Feel free to send a pull request to this course’s &lt;a href=&quot;https://github.com/jetbrains-academy/rustlings-course&quot;&gt;git repo&lt;/a&gt;.&lt;/p&gt;" />
+        <option name="id" value="16631" />
+        <option name="location" value="$USER_HOME$/myproj/rustproj/Learn Rust" />
+        <option name="name" value="Learn Rust" />
+        <option name="tasksSolved" value="5" />
+        <option name="tasksTotal" value="331" />
+        <option name="type" value="Marketplace" />
+        <option name="programmingLanguageId" value="Rust" />
+      </course>
+    </courses>
+  </component>
+</application>

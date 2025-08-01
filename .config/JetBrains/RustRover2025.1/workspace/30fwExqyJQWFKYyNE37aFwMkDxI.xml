@@ -1,0 +1,358 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Learn Rust" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="17bq4dbpjaj73" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introduction/Getting started/Task Description/src/main.rs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Getting started/Task Description/…/main.rs","foregroundColor":-2040076,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,111,10,109,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,97,114,105,110,47,82,117,115,116,82,111,118,101,114,45,50,48,50,53,46,49,46,53,47,112,108,117,103,105,110,115,47,105,110,116,101,108,108,105,106,45,114,117,115,116,47,108,105,98,47,105,110,116,101,108,108,105,106,45,114,117,115,116,46,106,97,114,33,47,105,99,111,110,115,47,101,120,112,117,105,47,114,117,115,116,70,105,108,101,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Rust": {
+      "usageCount": 6,
+      "lastUsed": 1754032115762
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/About/src/main.rs&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="6" lastUsage="1754032115764" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learn Rust" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust}" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Learn Rust" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction}" type="76d92c43:SectionNode" />
+            </path>
+            <path>
+              <item name="Learn Rust" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction}" type="76d92c43:SectionNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started}" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Learn Rust" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction}" type="76d92c43:SectionNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started}" type="d53b8fed:LessonNode" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/Task Description/src}" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Learn Rust" />
+            <item name="Learn Rust" type="a264ea2a:RootNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="Learn Rust" />
+              <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust}" type="ed842865:CourseNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Introduction" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Introduction" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction}" type="76d92c43:SectionNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="Getting started" />
+                  <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started}" type="d53b8fed:LessonNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/About/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/About/src}" type="4928525d:TaskNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/Navigating Around/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/Navigating Around/src}" type="4928525d:TaskNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/Course View/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/Course View/src}" type="4928525d:TaskNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/Editor/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/Editor/src}" type="4928525d:TaskNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/Task Description/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/Task Description/src}" type="4928525d:TaskNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/Task Description/src/main.rs" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="main.rs" />
+                      <item name="main.rs" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/Hello World/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/Hello World/src}" type="4928525d:TaskNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Introduction/Getting started/External Linter/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Introduction/Getting started/External Linter/src}" type="4928525d:TaskNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Common Programming Concepts" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Common Programming Concepts" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Common Programming Concepts}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Understanding Ownership" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Understanding Ownership" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Understanding Ownership}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Structs, Methods, Enums, and Pattern Matching" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Structs, Methods, Enums, and Pattern Matching" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Structs, Methods, Enums, and Pattern Matching}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Modules" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Modules}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Common Collections" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Common Collections" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Common Collections}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Error Handling" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Error Handling" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Error Handling}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Generic Types, Traits, and Lifetime" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Generic Types, Traits, and Lifetime" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Generic Types, Traits, and Lifetime}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Writing Automated Tests" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Writing Automated Tests" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Writing Automated Tests}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Standard Library Types" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Standard Library Types" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Standard Library Types}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Fearless Concurrency" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Fearless Concurrency" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Fearless Concurrency}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Macros" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Macros" />
+                <item name="dir{file:///home/larin/myproj/rustproj/Learn Rust/Macros}" type="76d92c43:SectionNode" />
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Build bringing_paths_into_scope_with_the_use_keyword" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="496000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08120341" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Tidelift" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="GitHub Copilot MCP Log" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.16966967" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.19989224" />
+      <window_info anchor="right" id="Task" order="7" visible="true" weight="0.10676251" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="8" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="9" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="10" />
+      <unified_weights bottom="0.16966967" left="0.08120341" right="0.10676251" />
+    </layoutV2>
+    <recentWindows>
+      <value>Task</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Introduction/Getting started/About/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Getting started/Navigating Around/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Getting started/Course View/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Getting started/Editor/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Getting started/Task Description/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

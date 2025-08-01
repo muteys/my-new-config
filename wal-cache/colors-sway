@@ -1,0 +1,21 @@
+set $wallpaper /home/larin/wallpaper/wallpaper.png
+
+set $background #1b1b13
+set $foreground #d6d4d9
+
+set $color0 #1b1b13
+set $color1 #7EA130
+set $color2 #76884B
+set $color3 #8FA44A
+set $color4 #61718F
+set $color5 #8C839E
+set $color6 #9F9D9D
+set $color7 #d6d4d9
+set $color8 #959497
+set $color9 #7EA130
+set $color10 #76884B
+set $color11 #8FA44A
+set $color12 #61718F
+set $color13 #8C839E
+set $color14 #9F9D9D
+set $color15 #d6d4d9

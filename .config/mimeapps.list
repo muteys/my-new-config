@@ -1,0 +1,8 @@
+[Added Associations]
+image/png=gimp.desktop;firefox.desktop;
+image/jpeg=gimp.desktop;firefox.desktop;
+
+[Default Applications]
+image/png=firefox.desktop
+image/jpeg=firefox.desktop
+x-scheme-handler/anytype=anytype.desktop

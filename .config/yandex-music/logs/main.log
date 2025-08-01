@@ -1,0 +1,150 @@
+[28.07.2025, 20:07:58,921] [info] (DeviceInfo) {
+  "application": {
+    "version": "5.61.1",
+    "build": "5.61.1/r17089085"
+  },
+  "language": {
+    "locale": "en-US",
+    "countryCode": "US",
+    "preferredSystemLanguages": [
+      "en-US",
+      "en-US",
+      "en",
+      "en"
+    ]
+  },
+  "os": {
+    "type": "Linux",
+    "release": "6.15.8-arch1-1",
+    "arch": "x64",
+    "version": "#1 SMP PREEMPT_DYNAMIC Thu, 24 Jul 2025 18:18:11 +0000",
+    "platform": "linux",
+    "machine": "x86_64"
+  }
+}
+[28.07.2025, 20:07:58,926] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6086,
+    "totalMB": 15909
+  },
+  "storage": {
+    "freeMB": 807804,
+    "totalMB": 936787
+  }
+}
+[28.07.2025, 20:07:59,388] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[28.07.2025, 20:07:59,638] [info] (Events) Event received APPLICATION_READY
+[28.07.2025, 20:07:59,641] [info] (Events) Event send FIRST_LAUNCH
+[28.07.2025, 20:07:59,641] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[28.07.2025, 20:07:59,667] [info] (DeviceInfo) {
+  "cpu": "AMD Ryzen 5 3600 6-Core Processor"
+}
+[28.07.2025, 20:07:59,668] [info] (Events) Event received APPLICATION_THEME
+[28.07.2025, 20:07:59,839] [info] (Common) Request to https://music-desktop-application.s3.yandex.net/stable/release-notes/en.json completed with status:  200
+[28.07.2025, 20:07:59,846] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[28.07.2025, 20:07:59,941] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 20:07:59,943] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[28.07.2025, 20:07:59,945] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[28.07.2025, 20:12:54,907] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 20:18:54,273] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 20:24:54,634] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 20:25:03,790] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[28.07.2025, 20:25:04,060] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[28.07.2025, 20:25:04,342] [info] (Events) Event received APPLICATION_READY
+[28.07.2025, 20:25:04,345] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[28.07.2025, 20:25:04,348] [info] (Events) Event received APPLICATION_THEME
+[28.07.2025, 20:25:04,562] [info] (Common) Request to https://music-desktop-application.s3.yandex.net/stable/release-notes/en.json completed with status:  200
+[28.07.2025, 20:25:04,566] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[28.07.2025, 20:25:05,066] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 20:25:07,994] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 20:25:07,994] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[28.07.2025, 20:25:08,831] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 20:25:08,856] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 20:30:54,995] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 20:30:54,999] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 20:32:18,079] [info] (Events) Event send REFRESH_REPOSITORY_META
+[28.07.2025, 20:32:18,080] [info] (Events) Event received REPOSITORY_META_UPDATED
+[28.07.2025, 20:48:54,102] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 20:48:54,120] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 21:06:54,216] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 21:06:54,249] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 21:24:54,426] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 21:24:54,466] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 21:32:40,677] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[28.07.2025, 21:33:01,172] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:01,172] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:01,173] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[28.07.2025, 21:33:07,535] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:07,536] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:07,536] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[28.07.2025, 21:33:09,632] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:09,781] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:10,011] [info] (Events) Event received PLAYER_STATE true undefined undefined
+[28.07.2025, 21:33:10,012] [info] (AppSuspension) App suspension blocker is enabled
+[28.07.2025, 21:33:10,021] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:10,021] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,144] [info] (Events) Event received PLAYER_STATE true undefined undefined
+[28.07.2025, 21:33:10,144] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,144] [info] (AppSuspension) App suspension blocker is enabled
+[28.07.2025, 21:33:10,156] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:10,157] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,162] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:10,162] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,171] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:10,171] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:10,171] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:10,184] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:10,184] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,329] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:10,329] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,463] [info] (Events) Event received PLAYER_STATE true undefined undefined
+[28.07.2025, 21:33:10,463] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:10,463] [info] (AppSuspension) App suspension blocker is enabled
+[28.07.2025, 21:33:12,185] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:12,185] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:12,186] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:12,201] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:12,201] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:12,386] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:12,387] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:12,548] [info] (Events) Event received PLAYER_STATE true undefined undefined
+[28.07.2025, 21:33:12,548] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:12,548] [info] (AppSuspension) App suspension blocker is enabled
+[28.07.2025, 21:33:17,769] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:17,770] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:17,770] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:23,788] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:23,788] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:23,988] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:23,988] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:23,993] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:23,994] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:23,994] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[28.07.2025, 21:33:24,313] [info] (Events) Event received PLAYER_STATE true undefined undefined
+[28.07.2025, 21:33:24,313] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:24,313] [info] (AppSuspension) App suspension blocker is enabled
+[28.07.2025, 21:33:24,323] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:33:24,323] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:24,482] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:24,482] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:24,482] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[28.07.2025, 21:33:24,488] [info] (Events) Event received PLAYER_STATE true undefined undefined
+[28.07.2025, 21:33:24,488] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:33:24,489] [info] (AppSuspension) App suspension blocker is enabled
+[28.07.2025, 21:34:15,674] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[28.07.2025, 21:34:15,674] [info] (AppSuspension) App suspension blocker is disabled
+[28.07.2025, 21:42:54,515] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 21:42:54,517] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 21:42:54,519] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:00:54,584] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 22:00:54,585] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:00:54,588] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:18:54,669] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 22:18:54,670] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:18:54,673] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:36:54,741] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 22:36:54,744] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:36:54,746] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:54:54,838] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[28.07.2025, 22:54:54,839] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[28.07.2025, 22:54:54,841] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Tumbler
+Comment=Thumbnail service
+Exec=/usr/lib/tumbler-1/tumblerd
+StartupNotify=false
+NoDisplay=true
+OnlyShowIn=XFCE;
+AutostartCondition=XFCE org.xfce.thunar

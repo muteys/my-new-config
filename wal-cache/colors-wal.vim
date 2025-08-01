@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/larin/wallpaper/wallpaper.png"
+let background = "#1b1b13"
+let foreground = "#d6d4d9"
+let cursor     = "#d6d4d9"
+
+" Colors
+let color0  = "#1b1b13"
+let color1  = "#7EA130"
+let color2  = "#76884B"
+let color3  = "#8FA44A"
+let color4  = "#61718F"
+let color5  = "#8C839E"
+let color6  = "#9F9D9D"
+let color7  = "#d6d4d9"
+let color8  = "#959497"
+let color9  = "#7EA130"
+let color10 = "#76884B"
+let color11 = "#8FA44A"
+let color12 = "#61718F"
+let color13 = "#8C839E"
+let color14 = "#9F9D9D"
+let color15 = "#d6d4d9"

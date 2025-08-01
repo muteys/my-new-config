@@ -1,0 +1,11 @@
+[Unit]
+Description=Hyprland Wallpaper Changer (15 min)
+PartOf=graphical-session.target
+
+[Service]
+ExecStart=%h/.config/hypr/scripts/wallpaper_switcher.sh
+Restart=always
+Environment="DISPLAY=:0"
+
+[Install]
+WantedBy=default.target
