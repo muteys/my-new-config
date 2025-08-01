@@ -80,3 +80,6 @@ This configuration uses pywal for dynamic color schemes. After copying the files
 4. To generate a new theme from a wallpaper, run: `wal -i /path/to/your/wallpaper.jpg`
 
 Enjoy your configured setup!
+
+##Original config
+Original config is from: https://github.com/xeji01/hyprstellar
