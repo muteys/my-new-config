@@ -81,5 +81,7 @@ This configuration uses pywal for dynamic color schemes. After copying the files
 
 Enjoy your configured setup!
 
-##Original config
+## Original config
 Original config is from: https://github.com/xeji01/hyprstellar
+
+ty ♥
