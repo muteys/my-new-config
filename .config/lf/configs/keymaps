@@ -69,6 +69,7 @@ map gn2 cd /mnt/ntfs2   # path to my windows-type hard drive
 
 # DEFAULT PLAYER
 map o "open in default player"
+map <enter> "open in nvim"
 
 # CHMOD
 map cm chmodx

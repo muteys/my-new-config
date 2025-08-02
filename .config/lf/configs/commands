@@ -371,6 +371,14 @@ cmd "open in default player" ${{
     $DEFAULT_PLAYER "$f"
 }}
 
+# ---------- OPEN IN NEOVIM ----------
+
+cmd "open in nvim" ${{
+    if [ -f "$f" ]; then
+        ${TERMINAL:-kitty} -e nvim "$f"
+    fi
+}}
+
 
 
 # ---------- CHMOD ----------
