@@ -3,7 +3,7 @@
 This directory contains configuration files and resources for my system setup, as well as a list of packages that should be installed.
 
 ## Quick Start (Automatic Installation)
-
+### **WARNING!!! Before running the script, change hyprland config by adding your monitor in mycfg/.config/hypr/configs/monitors.conf !**  
 For automatic installation of all packages and restoration of configuration:
 
 ```bash
