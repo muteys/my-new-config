@@ -18,7 +18,7 @@ return {
         vim.cmd([[do FileType]])
         vim.cmd([[
          function OpenMarkdownPreview (url)
-            let cmd = "librewolf --new-tab " . shellescape(a:url) . " &"
+            let cmd = "firefox --new-tab " . shellescape(a:url) . " &"
             silent call system(cmd)
          endfunction
       ]])

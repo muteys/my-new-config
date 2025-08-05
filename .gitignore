@@ -1,0 +1,36 @@
+# Скрипт обновления конфигов
+update_configs.sh
+
+# Временные файлы
+*.tmp
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+
+# Кеши различных приложений
+.config/*/cache/
+.config/*/Cache/
+.config/*/logs/
+.config/*/session/
+.config/*/data/
+
+# Специфичные для пользователя файлы
+.config/pulse/cookie
+.config/github-copilot/
+.config/JetBrains/
+.config/anytype/
+.config/yandex-music/
+.config/go/telemetry/
+
+# Базы данных и индексы
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Файлы состояния
+.config/session/
+.config/dconf/user
